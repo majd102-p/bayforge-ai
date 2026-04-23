@@ -239,10 +239,9 @@ Open `http://localhost:3000` in your browser.
 <div align="center">
 
 **Majd Ayoub**
-Recent Graduate · Full-Stack Developer
+Recent Graduate 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-majd--ayoub-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majd--ayoub)
-[![GitHub](https://img.shields.io/badge/GitHub-majdayoub-181717?logo=github&logoColor=white)](https://github.com/majdayoub)
 
 </div>
 
@@ -259,7 +258,7 @@ After graduating, I wanted to bridge the gap between academic knowledge and real
 - **Architecture** — Modular components, state management, API design
 - **AI-assisted development** — Using AI as a force multiplier, not a crutch
 
-This is one of several projects I built to strengthen different skill areas. Each project focuses on different technologies and problem domains. Check my [GitHub](https://github.com/majdayoub) for more.
+This is one of several projects I built to strengthen different skill areas. Each project focuses on different technologies and problem domains.
 
 > I have since moved on to other projects and will not be continuing development on BayForge AI.
 
@@ -299,7 +298,7 @@ This is one of several projects I built to strengthen different skill areas. Eac
 
 ⭐ Star this repo if it helped you learn something!
 
-[LinkedIn](https://www.linkedin.com/in/majd--ayoub) · [GitHub](https://github.com/majdayoub)
+[LinkedIn](https://www.linkedin.com/in/majd--ayoub) · 
 
 ---
 
