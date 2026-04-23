@@ -16,7 +16,7 @@
 </div>
 
 ---
-
+https://bayforge-ai.vercel.app/ 
 ## ⚠️ Project Status
 
 > **⛔ PROJECT STOPPED — Will NOT continue. Published as-is for reference only.**
