@@ -16,7 +16,12 @@
 </div>
 
 ---
-https://bayforge-ai.vercel.app/ 
+
+🔗Prototype UI (Visual Preview Only): [https://bayforge-ai.vercel.app/]
+
+The link above☝ is for Visual/UI preview only. All backend logic and AI analysis have been disabled to prevent misuse. It does NOT provide real data or analysis
+
+
 ## ⚠️ Project Status
 
 > **⛔ PROJECT STOPPED — Will NOT continue. Published as-is for reference only.**
