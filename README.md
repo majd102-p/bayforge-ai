@@ -19,7 +19,7 @@
 
 🔗Prototype UI (Visual Preview Only): [https://bayforge-ai.vercel.app/]
 
-The link above☝ is for Visual/UI preview only. All backend logic and AI analysis have been disabled to prevent misuse. It does NOT provide real data or analysis
+"The preview link above exists for visual/UI demonstration only. It is NOT intended for real-world use. All data is AI-generated, unverified, and unreliable. Use at your own risk."
 
 
 ## ⚠️ Project Status
