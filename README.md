@@ -32,7 +32,6 @@
 | **Continuing?** | ❌ **No** — The project will not be resumed or updated |
 | **Purpose** | 📚 Personal educational project to build practical skills |
 | **Author** | 🎓 Majd Ayoub [LinkedIn](https://www.linkedin.com/in/majd--ayoub)   |
-| **AI Help** | 🤖 Built with significant AI assistance (see [How AI Was Used](#how-ai-was-used)) |
 | **License** | 📄 MIT — free to use, modify, and learn from |
 
 **What works:**
